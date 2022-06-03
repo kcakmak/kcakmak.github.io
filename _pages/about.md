@@ -1,6 +1,6 @@
 ---
 permalink: /
-title: "Yuichiro Waki's website"
+title: "Kadircan Cakmak's website"
 excerpt: "About me"
 author_profile: true
 redirect_from: 
@@ -8,17 +8,15 @@ redirect_from:
   - /about.html
 ---
 
-I am an Associate Professor at Department of Economics, Aoyama Gakuin University, and a Honorary Senior Fellow at School of Economics, the University of Queensland. 
+I am a PhD student at Department of Econometrics and OR, Tilburg University. 
 
-My research interests include macroeconomics, monetary economics, and computational economics. 
+My research interests include empirical industrial organization, quantitative marketing and consumer search. 
 
-**Contact**: ywakiecon[at]gmail.com    (Please replace [at] with @.)
+**Contact**: k.cakmak[at]tilburguniversity.edu    (Please replace [at] with @.)
 
 What's new
 ======
-* [March 2022]["A cautionary note on linear aggregation in macroeconomic models under the RINCE preferences"](/files/Waki_RINCE.pdf) is now accepted at Journal of Macroeconomics. 
-* [October 2021] ["The Delphic Forward Guidance Puzzle in New Keynesian Models"](https://www.sciencedirect.com/science/article/pii/S1094202521000752?dgcid=author) with Ippei Fujiwara is now accepted at Review of Economic Dynamics. [Online Appendix](/files/Fujiwara_Waki_DFGP_OnlineAppendix.pdf)
-* [December 2020] "Fiscal forward guidance: A case for selective transparency" (with Ippei Fujiwara) is published in Journal of Monetary Economics. 
+* [March 2022]["Optimal Pricing and Product Returns"](/files/Waki_RINCE.pdf) .... 
 
 
 
