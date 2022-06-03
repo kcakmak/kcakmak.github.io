@@ -7,13 +7,13 @@
 
 # Site Settings
 locale                   : "en-US"
-title                    : "Yuichiro Waki"
+title                    : "Kadircan Cakmak"
 title_separator          : "-"
-name                     : &name "Yuichiro Waki"
-description              : &description "Associate Professor of Economics, Aoyama Gakuin University"
-url                      : https://ywaki-econ.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
+name                     : &name "Kadircan Cakmak"
+description              : &description "PhD Student at Econometrics and OR, Tilburg University"
+url                      : https://kcakmak.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
-repository               : ""
+repository               : "kcakmak.github.io"
 teaser                   :  # filename of teaser fallback teaser image placed in /images/, .e.g. "500x300.png"
 breadcrumbs              : false # true, false (default)
 words_per_minute         : 160
@@ -80,14 +80,14 @@ analytics:
 
 # Site Author
 author:
-  name             : "Yuichiro Waki"
+  name             : "Kadircan Cakmak"
   avatar           : "profile.png"
-  bio              : "Associate Professor of Economics, Aoyama Gakuin University"
-  location         : "Tokyo"
-  employer         : "Aoyama Gakuin University"
+  bio              : "PhD Student of Econometrics and OR, Tilburg University"
+  location         : "Tilburg/The Netherlands"
+  employer         : "Tilburg University"
   pubmed           : 
   googlescholar    : "https://scholar.google.com/citations?user=efRzRDgAAAAJ"
-  email            : "ywakiecon[atmark]gmail.com"
+  email            : "k.cakmak[atmark]tilburguniversity.edu"
   researchgate     :  # example: "https://www.researchgate.net/profile/yourprofile"
   uri              :
   bitbucket        :
@@ -96,7 +96,7 @@ author:
   flickr           :
   facebook         :
   foursquare       :
-  github           : "ywaki-econ"
+  github           : "kcakmak"
   google_plus      :
   keybase          :
   instagram        :
