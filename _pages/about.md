@@ -16,7 +16,7 @@ My research interests include empirical industrial organization, quantitative ma
 
 What's new
 ======
-* I am in the job market and my job market paper is Optimal Pricing and Product Returns (link will be available soon).
+* I am in the job market and my job market paper is "Optimal Pricing and Product Returns" (link will be available soon).
 
 
 
