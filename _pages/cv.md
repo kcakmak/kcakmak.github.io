@@ -16,18 +16,14 @@ Contact Information
 
 Education
 ======
-* B.A. in Economics, Bogazici University, 2017
-* M.A. in Economics, Tilburg University, 2019
 * Ph.D in Economics, Tilburg University, 2023 (Expected)
+* M.A. in Economics, Tilburg University, 2019
+* B.A. in Economics, Bogazici University, 2017
 
 Honors and Awards
 ======
 * 2017-2019, Koopmans Scholarship, CentER, Tilburg University.
 * 2012-2017, Distinguished Presidential Scholarship of Turkey. 
-
-Grants
-======
-* 
 
 Teaching Experience
 ======
@@ -35,19 +31,11 @@ Teaching Experience
 * 2019-2022, Teaching assistant, Department of Economics, Tilburg University, Tilburg, the Netherlands. Causal Inference Methods for Bachelor Data Science Program.
 * 2014-2016, Teaching assistant, Department of Economics, Bogazici University, Istanbul, Turkey. Introduction to Microeconomics.
 
-Research Experience
-======
-* Research Experience
-
-Publications and Accepted Papers
-======
-* ["Paper Name,"](/files/Waki_RINCE.pdf) accepted at ***Journal of Name***. 
 
 Working Papers
 ======
 
-* ["Optimal Pricing and Product Returns,"](/files/Fukushima_Waki.pdf) with Bart Bronnenberg and Tobias Klein.
-  * CentER Working Paper No. ....    
+* "Optimal Pricing and Product Returns" with Bart Bronnenberg and Tobias Klein.  
  
 
 Professional Activities
