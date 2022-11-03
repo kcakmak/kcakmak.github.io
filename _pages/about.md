@@ -16,7 +16,7 @@ My research interests include empirical industrial organization, quantitative ma
 
 What's new
 ======
-* [March 2022]["Optimal Pricing and Product Returns"](/files/Waki_RINCE.pdf) .... 
+* I am in the job market and my job market paper is Optimal Pricing and Product Returns (link will be available soon).
 
 
 
