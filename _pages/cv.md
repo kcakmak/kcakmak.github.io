@@ -8,6 +8,7 @@ redirect_from:
 ---
 
 {% include base_path %}
+You can find my CV [here](/files/KadircanCakmakCV.pdf)
 
 Contact Information
 ======
