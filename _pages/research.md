@@ -9,11 +9,5 @@ redirect_from:
 
 <hr>
 
-## Publications and Accepted Papers
-* [**"Some Paper,"**](/files/Waki_RINCE.pdf) March 2022.
-  * Accepted at ***Journal of ...***. 
-
-<hr>
-
 ## Working Papers
-* [**"Optimal Pricing and Product Returns,"**](/files/Waki_RINCE.pdf) with Bart Bronnenberg and Tobias Klein.
+* "Optimal Pricing and Product Returns" with Bart Bronnenberg and Tobias Klein (it will be available soon).
