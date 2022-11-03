@@ -86,7 +86,7 @@ author:
   location         : "Tilburg/The Netherlands"
   employer         : "Tilburg University"
   pubmed           : 
-  googlescholar    : "https://scholar.google.com/citations?user=efRzRDgAAAAJ"
+  googlescholar    : # "https://scholar.google.com/citations?user=efRzRDgAAAAJ"
   email            : "k.cakmak[atmark]tilburguniversity.edu"
   researchgate     :  # example: "https://www.researchgate.net/profile/yourprofile"
   uri              :
