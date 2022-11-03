@@ -11,5 +11,5 @@ redirect_from:
 <hr>
 
 ## Past Courses
-* "Data Science Methods" graduate course with Otilia Boldea
-* "Bachelor Data Science Methods" with Tobias Klein
+* Data Science Methods for Graduate Econometrics Program, 2019-2022, Teaching assistant, Department of Econometrics and OR, Tilburg University
+* Bachelor Data Science Methods for Data Science Program, 2019-2022, Teaching assistant, Tilburg University and Eindhoven Technical University
