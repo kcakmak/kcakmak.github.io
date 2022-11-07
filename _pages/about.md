@@ -13,6 +13,7 @@ I am a PhD student at Department of Econometrics and OR, Tilburg University.
 My research interests include empirical industrial organization, quantitative marketing and consumer search. 
 
 **Contact**: k.cakmak[at]tilburguniversity.edu    (Please replace [at] with @.)
+**University website**: [tilburguniversity.edu/staff/k-cakmak](https://www.tilburguniversity.edu/staff/k-cakmak)
 
 What's new
 ======
