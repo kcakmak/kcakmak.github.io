@@ -9,5 +9,6 @@ redirect_from:
 
 <hr>
 
-## Working Papers
+## Papers
 * "Optimal Pricing and Product Returns" with Bart Bronnenberg and Tobias Klein (it will be available soon).
+* "Estimation of Search and Return Costs in Online Markets" 
