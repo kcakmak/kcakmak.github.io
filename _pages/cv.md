@@ -33,10 +33,11 @@ Teaching Experience
 * 2014-2016, Teaching assistant, Department of Economics, Bogazici University, Istanbul, Turkey. Introduction to Microeconomics.
 
 
-Working Papers
+Papers
 ======
 
 * "Optimal Pricing and Product Returns" with Bart Bronnenberg and Tobias Klein.  
+* "Estimation of Search and Return Costs in Online Markets"
  
 
 Professional Activities
