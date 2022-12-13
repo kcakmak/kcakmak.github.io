@@ -36,7 +36,7 @@ Teaching Experience
 Papers
 ======
 
-* "Optimal Pricing and Product Returns" with Bart Bronnenberg and Tobias Klein.  
+* ["Optimal Pricing and Product Returns"](/files/KadircanCakmak_JobMarketPaper_OptimalPricingandProductReturns.pdf) with Bart Bronnenberg and Tobias Klein.  
 * "Estimation of Search and Return Costs in Online Markets"
  
 
