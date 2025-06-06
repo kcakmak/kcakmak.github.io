@@ -10,7 +10,7 @@ redirect_from:
 
 I am a Ph.D. researcher at the Department of Econometrics and OR, Tilburg University. 
 
-My research interests include empirical industrial organization, quantitative marketing, and consumer search. 
+My research interests include empirical industrial organization, quantitative marketing, pricing, and consumer search. 
 
 **Contact**: k.cakmak[at]tilburguniversity.edu    (Please replace [at] with @.)
 
