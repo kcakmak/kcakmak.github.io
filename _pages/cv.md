@@ -21,6 +21,10 @@ Education
 * M.A. in Economics, Tilburg University, 2019
 * B.A. in Economics, Bogazici University, 2017
 
+Work Experience
+======
+* Data Scientist, Tesla, Amsterdam, 2023-Present
+
 Honors and Awards
 ======
 * 2017-2019, Koopmans Scholarship, CentER, Tilburg University.
