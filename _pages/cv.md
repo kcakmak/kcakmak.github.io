@@ -17,7 +17,7 @@ Contact Information
 
 Education
 ======
-* Ph.D in Economics, Tilburg University, 2025 October (Defense scheduled)
+* Ph.D in Economics, Tilburg University, 2025
 * M.A. in Economics, Tilburg University, 2019
 * B.A. in Economics, Bogazici University, 2017
 

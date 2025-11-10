@@ -8,7 +8,7 @@ redirect_from:
   - /about.html
 ---
 
-I am a Ph.D. researcher at the Department of Econometrics and OR, Tilburg University. 
+I am a PhD in Econometrics and OR, Tilburg University. 
 
 My research interests include empirical industrial organization, quantitative marketing, pricing, and consumer search. 
 
