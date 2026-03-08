@@ -12,8 +12,8 @@ You can find my CV [here](/files/KadircanCakmakCV.pdf)
 
 Contact Information
 ======
-* **Address**: Department of Econometrics and OR, Tilburg University, K546, Warandelaan 2, 5037AB Tilburg, The Netherlands.
-* **e-mail**: k.cakmak[at]tilburguniversity.edu    (Please replace [at] with @.)
+* **Address**: Koç University, CASE Z44, Rumelifeneri Yolu, İstanbul, Turkey.
+* **e-mail**: kcakmak[at]ku.edu.tr    (Please replace [at] with @.)
 
 Education
 ======
@@ -23,7 +23,7 @@ Education
 
 Work Experience
 ======
-* Data Scientist, Tesla, Amsterdam, 2023-Present
+* Data Scientist, Tesla, Amsterdam, 2023-2025
 
 Honors and Awards
 ======
@@ -32,9 +32,10 @@ Honors and Awards
 
 Teaching Experience
 ======
-* 2019-2022, Teaching assistant, Department of Econometrics and OR, Tilburg University, Tilburg, the Netherlands. Data Science Methods for Graduate Econometrics Program.
-* 2019-2022, Teaching assistant, Department of Economics, Tilburg University, Tilburg, the Netherlands. Causal Inference Methods for Bachelor Data Science Program.
-* 2014-2016, Teaching assistant, Department of Economics, Bogazici University, Istanbul, Turkey. Introduction to Microeconomics.
+* 2026 Spring, Instructor, Department of Marketing, Koç University, İstanbul, Turkey. Data-Driven Marketing,
+* 2019-2022, Teaching Assistant, Department of Econometrics and OR, Tilburg University, Tilburg, the Netherlands. Data Science Methods for Graduate Econometrics Program.
+* 2019-2022, Teaching Assistant, Department of Economics, Tilburg University, Tilburg, the Netherlands. Causal Inference Methods for Bachelor Data Science Program.
+* 2014-2016, Teaching Assistant, Department of Economics, Bogazici University, Istanbul, Turkey. Introduction to Microeconomics.
 
 
 Papers
@@ -42,10 +43,12 @@ Papers
 
 * ["Optimal Pricing and Product Returns"](/files/KadircanCakmak_JobMarketPaper_OptimalPricingandProductReturns.pdf) with Bart Bronnenberg and Tobias Klein.  
 * "Estimation of Search and Return Costs in Online Markets"
+* "Welfare Implications of Private Labels in Online Marketplaces under Consumer Search"
  
 
 Professional Activities
 ======
 * **Seminar and conference presentations**
+  * 2025: Marketing Seminar, Koç University.
   * 2022: Structural Econometrics Group, Tilburg University.
   * 2021: Graduate Student Society, Tilburg University.
