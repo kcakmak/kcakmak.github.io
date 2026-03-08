@@ -10,7 +10,7 @@ locale                   : "en-US"
 title                    : "Kadircan Cakmak"
 title_separator          : "-"
 name                     : &name "Kadircan Cakmak"
-description              : &description "PhD in Econometrics, Tilburg University"
+description              : &description "Assistant Professor, Koç University"
 url                      : https://kcakmak.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
 repository               : "kcakmak.github.io"
@@ -82,12 +82,12 @@ analytics:
 author:
   name             : "Kadircan Cakmak"
   avatar           : "profil.jpg"
-  bio              : "PhD in Econometrics, Tilburg University"
-  location         : "Tilburg/The Netherlands"
-  employer         : "Tilburg University"
+  bio              : "Assistant Professor, Koç University"
+  location         : "İstanbul/Turkey"
+  employer         : "Koç University"
   pubmed           : 
   googlescholar    : # "https://scholar.google.com/citations?user=efRzRDgAAAAJ"
-  email            : "k.cakmak[atmark]tilburguniversity.edu"
+  email            : "kcakmak[atmark]ku.edu.tr"
   researchgate     :  # example: "https://www.researchgate.net/profile/yourprofile"
   uri              :
   bitbucket        :
