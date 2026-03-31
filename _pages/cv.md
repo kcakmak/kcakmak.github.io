@@ -10,6 +10,10 @@ redirect_from:
 {% include base_path %}
 You can find my CV [here](/files/KadircanCakmakCV.pdf)
 
+Current Position
+======
+* Assistant Professor of Marketing (Management), Koc University, 2026 -
+
 Contact Information
 ======
 * **Address**: Koç University, CASE Z44, Rumelifeneri Yolu, İstanbul, Turkey.
