@@ -10,7 +10,7 @@ redirect_from:
 
 I am an Assistant Professor in the deparment of Management at Koç University. I hold a PhD in Econometrics and OR from Tilburg University. 
 
-My research interests include quantitative marketing, pricing, consumer search and empirical industrial organization, . 
+My research interests include quantitative marketing, pricing, consumer search and empirical industrial organization. 
 
 **Contact**: kcakmak[at]ku.edu.tr   (Please replace [at] with @.)
 
